@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ben joan c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben joan c" height="30" width="40" /></a>
-<a href="https://kaggle.com/ben joan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ben joan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ben-joan-c-5a4a4121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-joan-c-5a4a4121b" height="30" width="40" /></a>
+<a href="https://kaggle.com/benjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benjoan" height="30" width="40" /></a>
 <a href="https://instagram.com/itsbenjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsbenjoan" height="30" width="40" /></a>
 <a href="https://medium.com/@ben joan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ben joan" height="30" width="40" /></a>
 </p>
