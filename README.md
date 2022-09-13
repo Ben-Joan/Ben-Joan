@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love reading,music and movies...Someday i will love to travel the world**
 
+[![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ben-joan-c-5a4a4121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-joan-c-5a4a4121b" height="30" width="40" /></a>
