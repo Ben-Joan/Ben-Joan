@@ -15,13 +15,11 @@
 
 [![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ben-joan-c-5a4a4121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-joan-c-5a4a4121b" height="30" width="40" /></a>
-<a href="https://kaggle.com/benjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benjoan" height="30" width="40" /></a>
-<a href="https://instagram.com/itsbenjoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsbenjoan" height="30" width="40" /></a>
-<a href="https://medium.com/@ben joan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ben joan" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-joan-c-5a4a4121b)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/benjoan)
+[![Instagram](https://img.shields.io/badge/Instagram-%E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsbenjoan)
+--
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a></p>
