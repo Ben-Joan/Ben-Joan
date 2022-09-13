@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my learning journey**
 
-- ⚡ Fun fact **I love reading,music and movies...Someday i will love to travel the world**
+- ⚡ Fun fact: **I love reading, music and movies...Someday i will love to travel the world**
 
 [![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
 
