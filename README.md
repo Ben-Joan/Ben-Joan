@@ -15,14 +15,24 @@
 
 [![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
 
-### Connect with me:
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-joan-c-5a4a4121b)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/benjoan)
-[![Instagram](https://img.shields.io/badge/Instagram-%E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsbenjoan)
+[![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/itsbenjoan)
 --
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a></p>
+### Languages and Tools
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue) 
+![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)
+---
+
+### Skills
+- Exploratory Data Analysis
+- Data Visualization
+- Analytical and Problem Solving Skills
+
 
 
 
