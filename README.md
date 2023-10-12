@@ -3,7 +3,6 @@
 
 <img align="center" alt="coding" width="350" src="https://camo.githubusercontent.com/044d219b987b706f28dabd9346ee8d0ee48d0dc36bb914c85786d40dd151dba4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-joan&label=Profile%20views&color=0e75b6&style=flat" alt="ben-joan" /> </p>
 
 - 🌱 I’m currently working on **projects & tools(technologies) that will enhance my analytical skillset**
 
