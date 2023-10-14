@@ -26,8 +26,10 @@
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a>
 <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
 ---
-
-
+### Technologies or Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>   </p>
 
 
 
