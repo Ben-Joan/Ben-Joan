@@ -28,7 +28,7 @@
 ---
 ### Technologies or Tools
 <p align="left">
-<img src="https://icon-sets.iconify.design/logos/microsoft-power-bi/" width="45" height="45"/>
+<img src="https://icon-sets.iconify.design/logos/microsoft-power-bi/" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45"/>
 </p>
 
