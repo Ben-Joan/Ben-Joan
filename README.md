@@ -28,7 +28,7 @@
 ---
 ### Technologies or Tools
 <p align="left">
-<img src="https://icon-sets.iconify.design/logos/microsoft-power-bi/" />
+<img src="https://www.flaticon.com/free-icon/google-analytics_732035?term=google+analytics+logo&page=1&position=3&origin=search&related_id=732035" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="45" height="45"/>
 </p>
 
