@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 --
-##Tools
+## Tools or Softwares
 
 ### Programming 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
