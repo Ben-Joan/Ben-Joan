@@ -19,12 +19,14 @@
 --
 ## Tools or Softwares
 
-### Programming 
-<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
 ### BI & Spreadsheet
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a>
 <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a>
+
+### Programming 
+<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
+
 ### Database
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0047AB.svg?logo=postgresql&logoColor=blue"></a>
 ---
