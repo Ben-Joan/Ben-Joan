@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 --
-## Tools or Softwares
+## MyTools
 
 ### BI & Spreadsheet
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
@@ -28,7 +28,12 @@
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
 
 ### Database
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0047AB.svg?logo=postgresql&logoColor=blue"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-00498D.svg?logo=postgresql&logoColor=white"></a>
+
+### Others
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
 ---
 
 
