@@ -9,7 +9,8 @@
 - 💬 Ask me about **my learning journey**
 
 - ⚡ Fun fact: **I love reading, music and movies...Someday i will love to travel the world**
-
+--
+### Portfolio
 [![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
 
 ### Connect with me
@@ -17,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 --
-## MyTools
+## My Tools
 
 ### BI & Spreadsheet
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
