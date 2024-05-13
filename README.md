@@ -27,9 +27,14 @@
 
 ### Programming 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
-
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
+  
 ### Database & Libraries 
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-00498D.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3B91B2.svg?logo=matplotlib-python&logoColor=white"></a>
+  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=seaborn&logoColor=white"></a>
 
 ### Others
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
