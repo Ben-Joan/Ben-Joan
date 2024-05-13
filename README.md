@@ -28,7 +28,7 @@
 ### Programming 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
 
-### Database
+### Database & Libraries 
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-00498D.svg?logo=postgresql&logoColor=white"></a>
 
 ### Others
