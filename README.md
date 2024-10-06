@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 --
-## My Tools
+## Tools
 
 ### BI & Spreadsheet
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
