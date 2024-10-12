@@ -21,7 +21,7 @@
 ## Tools
 
 ### Data Visualisation
-<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=powerbi&logoColor=black"></a>
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
 <!--![Static Badge](https://img.shields.io/badge/-Looker%20Studio-%234285F4?style=plastic&logo=looker&logoColor=white)-->
 <!--- a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a --->
 
