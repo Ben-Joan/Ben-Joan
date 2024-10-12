@@ -22,7 +22,7 @@
 
 ### Data Visualisation
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
-![Static Badge](https://img.shields.io/badge/-Powerbi-yellow?style=plastic&logo=powerbi&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=plastic&logo=power_bi&logoColor=white) 
 <!--![Static Badge](https://img.shields.io/badge/-Looker%20Studio-%234285F4?style=plastic&logo=looker&logoColor=white)-->
 <!--- a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a --->
 
