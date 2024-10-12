@@ -20,10 +20,9 @@
 --
 ## Tools
 
-### BI & Spreadsheet
+### Data Visualisation
 <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power Bi-F2C811.svg?logo=power bi&logoColor=black"></a>
-<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a>
+# <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a>
 
 ### Programming 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=black"></a>
@@ -37,6 +36,7 @@
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=Seaborn&logoColor=white"></a>
 
 ### Others
+<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
