@@ -10,8 +10,8 @@
 
 - ⚡ Fun fact: **I love reading, music and movies...Someday i will love to travel the world**
 --
-// Portfolio
-// [![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c)
+<!-- Portfolio
+[![Power_BI](https://img.shields.io/badge/Power_BI_portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/ben-joan-c) -->
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-joan-c-5a4a4121b)
