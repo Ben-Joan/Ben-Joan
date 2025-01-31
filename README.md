@@ -22,6 +22,7 @@
 
 ### Data Visualisation
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
+<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
 <!--![Static Badge](https://img.shields.io/badge/-Looker%20Studio-%234285F4?style=plastic&logo=looker&logoColor=white)-->
 <!--- a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-217346.svg?logo=google%20sheets&logoColor=green"></a --->
 
@@ -37,7 +38,6 @@
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=Seaborn&logoColor=white"></a>
 
 ### Others
-<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
