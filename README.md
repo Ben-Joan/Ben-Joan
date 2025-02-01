@@ -2,11 +2,10 @@
 <h3 align="left">Passionate about Business, Engineering and Technology</h3>
 
 
-- 🌱 I’m currently working on **projects & tools(technologies) that will enhance my analytical skillset**
+- 🌱 I’m always working on **projects & tools(technologies) that will enhance my analytical skillset**
 
-- 🤝 I’m looking for help with **Technical concepts and everything Analytics**
-
-- 💬 Ask me about **my learning journey**
+- 🤝 With a Mechanical Engineering degree, specialized in Industrial and Production Engineering, I've built a very good foundation on the importance of process optimization and efficiency improvement. By blending my technical expertise with analytical thinking, I can develop data-driven solutions that empower organizational decision-making and drive operational excellence.
+My commitment to continuous learning, curiousity and collaborative mindset enables me to thrive in dynamic environments and excel at problem-solving.
 
 - ⚡ Fun fact: **I love reading, music and movies...Someday i will love to travel the world**
 --
