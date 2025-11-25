@@ -17,7 +17,7 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 
-## Projects
+
 ## Projects
 <div style="display:flex; flex-direction:row; justify-content:center; gap:30px; flex-wrap:nowrap; width:100%; overflow-x:auto;">
   <!-- Project 1 -->
