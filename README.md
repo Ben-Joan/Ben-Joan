@@ -17,64 +17,49 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
 [![Instagram](https://img.shields.io/badge/Instagram-c0392b.svg?style=for-the-badge&logo=Instagram&logoColor=violet)](https://instagram.com/isbenjoan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@benjoan13)
 
---
 ## Projects
-<div style="text-align:center; margin-bottom: 30px;">
-  <!-- Project Image -->
-  <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Airline%20Delay.jpg" 
-       alt="Airline Delay Analysis" 
-       style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-  
-  <!-- Project Title -->
-  <h3 style="margin-top:15px;">Airline Performance and Delay Analysis</h3>
-  
-  <!-- View Project Button -->
-  <a href="https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis" 
-     target="_blank" 
-     style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
-    View Project
-  </a>
+## Projects
+<div style="display:flex; flex-direction:row; justify-content:center; gap:30px; flex-wrap:nowrap; width:100%; overflow-x:auto;">
+  <!-- Project 1 -->
+  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
+    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Airline%20Delay.jpg" 
+         alt="Airline Delay Analysis" 
+         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
+    <h3 style="margin-top:15px;">Airline Performance and Delay Analysis</h3>
+    <a href="https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis" 
+       target="_blank" 
+       style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+      View Project
+    </a>
+  </div>
+  <!-- Project 2 -->
+  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
+    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Lee%20Chatmen%20Merchandise%20Sales.jpg" 
+         alt="Merchandise Sales Analysis" 
+         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
+    <h3 style="margin-top:15px;">Merchandise Sales Analysis</h3>
+    <a href="https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales" 
+       target="_blank" 
+       style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+      View Project
+    </a>
+  </div>
+  <!-- Project 3 -->
+  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
+    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/ATLIQ_Mart_FMCG.jpg" 
+         alt="ATLIQ Mart Supply Chain" 
+         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
+    <h3 style="margin-top:15px;">ATLIQ Mart Supply Chain</h3>
+    <a href="https://github.com/Ben-Joan/Atliq-Mart-FMCG" 
+       target="_blank" 
+       style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+      View Project
+    </a>
+  </div>
 </div>
-
-<div style="text-align:center; margin-bottom: 30px;">
-  <!-- Project Image -->
-  <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Lee%20Chatmen%20Merchandise%20Sales.jpg" 
-       alt="Merchandise Sales Analysis" 
-       style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-  
-  <!-- Project Title -->
-  <h3 style="margin-top:15px;">Merchandise Sales Analysis</h3>
-  
-  <!-- View Project Button -->
-  <a href="https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales" 
-     target="_blank" 
-     style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
-    View Project
-  </a>
-</div>
-
-<div style="text-align:center; margin-bottom: 30px;">
-  <!-- Project Image -->
-  <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/ATLIQ_Mart_FMCG.jpg" 
-       alt="ATLIQ Mart Supply Chain" 
-       style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-  
-  <!-- Project Title -->
-  <h3 style="margin-top:15px;">ATLIQ Mart Supply Chain</h3>
-  
-  <!-- View Project Button -->
-  <a href="https://github.com/Ben-Joan/Atliq-Mart-FMCG" 
-     target="_blank" 
-     style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
-    View Project
-  </a>
-</div>
-
-
 
 --
 ## Tools
-
 ### Data Visualisation
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
 <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft%20excel&logoColor=green"></a>
