@@ -20,7 +20,19 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
 
 ## Projects
 <div style="display:flex; flex-direction:row; justify-content:center; gap:30px; flex-wrap:nowrap; width:100%; overflow-x:auto;">
-  <!-- Project 1 -->
+    <!-- Project 1 -->
+  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
+    <img src="https://github.com/Ben-Joan/Soft-Drink-Market-Insight/blob/main/Imgs/Dashboard.PNG" 
+         alt="Soft Drink Market Insights" 
+         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
+    <h3 style="margin-top:15px;">Soft Drink Market Insights</h3>
+    <a href="https://github.com/Ben-Joan/Soft-Drink-Market-Insight" 
+       target="_blank" 
+       style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">
+      View Project
+    </a>
+  </div>
+  <!-- Project 2 -->
   <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
     <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Airline%20Delay.jpg" 
          alt="Airline Delay Analysis" 
@@ -32,7 +44,7 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
       View Project
     </a>
   </div>
-  <!-- Project 2 -->
+  <!-- Project 3 -->
   <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
     <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Lee%20Chatmen%20Merchandise%20Sales.jpg" 
          alt="Merchandise Sales Analysis" 
@@ -44,7 +56,7 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
       View Project
     </a>
   </div>
-  <!-- Project 3 -->
+  <!-- Project 4 -->
   <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
     <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/ATLIQ_Mart_FMCG.jpg" 
          alt="ATLIQ Mart Supply Chain" 
