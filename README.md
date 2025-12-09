@@ -25,6 +25,23 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
     <img src="https://github.com/Ben-Joan/Soft-Drink-Market-Insight/blob/main/Imgs/Dashboard.PNG" 
          alt="Soft Drink Market Insights" 
          style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
+    <!-- Clickable Title -->
+    <h3 style="margin-top:15px;">
+      <a href="https://github.com/Ben-Joan/Soft-Drink-Market-Insight" 
+         target="_blank" 
+         style="color:#007bff; text-decoration:none;">
+        Soft Drink Market Insights
+      </a>
+    </h3>
+  </div>
+</div>
+
+<div style="display:flex; flex-direction:row; justify-content:center; gap:30px; flex-wrap:nowrap; width:100%; overflow-x:auto;">
+    <!-- Project 1 -->
+  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
+    <img src="https://github.com/Ben-Joan/Soft-Drink-Market-Insight/blob/main/Imgs/Dashboard.PNG" 
+         alt="Soft Drink Market Insights" 
+         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
     <h3 style="margin-top:15px;">Soft Drink Market Insights</h3>
     <a href="https://github.com/Ben-Joan/Soft-Drink-Market-Insight" 
        target="_blank" 
