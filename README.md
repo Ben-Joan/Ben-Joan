@@ -19,70 +19,16 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
 
 
 ## Projects
-<div style="display:flex; flex-direction:row; justify-content:center; gap:30px; flex-wrap:nowrap; width:100%; overflow-x:auto;">
-    <!-- Project 1 -->
-  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
-    <img src="https://github.com/Ben-Joan/Soft-Drink-Market-Insight/blob/main/Imgs/Dashboard.PNG" 
-         alt="Soft Drink Market Insights" 
-         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-    <!-- Clickable Title -->
-    <h3 style="margin-top:15px;">
-      <a href="https://github.com/Ben-Joan/Soft-Drink-Market-Insight" 
-         target="_blank" 
-         style="color:#007bff; text-decoration:none;">
-        Soft Drink Market Insights
-      </a>
-    </h3>
-  </div>
+<!-- Project 1 -->
+- **[Soft Drink Market Insights](https://github.com/Ben-Joan/Soft-Drink-Market-Insight)** – Analysis of market trends and consumer preferences in the soft drink industry.
+<!-- Project 2 -->  
+- **[Airline Delay Analysis](https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis)** – Exploration of airline performance data to identify patterns in flight delays.
+<!-- Project 3 --> 
+- **[Merchandise Sales Analysis](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales)** – Evaluation of sales data to uncover insights and optimize merchandising strategies.
+<!-- Project 4 -->  
+- **[ATLIQ Mart Supply Chain](https://github.com/Ben-Joan/Atliq-Mart-FMCG)** – Supply chain analysis for FMCG operations to improve efficiency and inventory management.
+   
 
-  <!-- Project 2 -->
-  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
-    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Airline%20Delay.jpg" 
-         alt="Airline Delay Analysis" 
-         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-    <!-- Clickable Title -->
-    <h3 style="margin-top:15px;">
-      <a href="https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis" 
-         target="_blank" 
-         style="color:#007bff; text-decoration:none;">
-        Airline Delay Analysis
-      </a>
-    </h3>
-  </div>
-
-<!-- Project 3 -->
-  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
-    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/Lee%20Chatmen%20Merchandise%20Sales.jpg" 
-         alt="Merchandise Sales Analysis" 
-         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-    <!-- Clickable Title -->
-    <h3 style="margin-top:15px;">
-      <a href="https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales" 
-         target="_blank" 
-         style="color:#007bff; text-decoration:none;">
-        Merchandise Sales Analysis
-      </a>
-    </h3>
-  </div>
-
-<!-- Project 4 -->
-  <div style="text-align:center; width:300px; min-width:300px; flex-shrink:0; margin-bottom:30px;">
-    <img src="https://github.com/Ben-Joan/Ben-Joan/blob/main/ATLIQ_Mart_FMCG.jpg" 
-         alt="ATLIQ Mart Supply Chain" 
-         style="width:300px; border-radius:10px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);">
-    <!-- Clickable Title -->
-    <h3 style="margin-top:15px;">
-      <a href="https://github.com/Ben-Joan/Atliq-Mart-FMCG" 
-         target="_blank" 
-         style="color:#007bff; text-decoration:none;">
-        ATLIQ Mart Supply Chain
-      </a>
-    </h3>
-  </div>
-  
-</div>
-
---
 ## Tools
 ### Data Visualisation
 <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
