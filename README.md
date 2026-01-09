@@ -20,14 +20,16 @@ My commitment to continuous learning, curiousity and collaborative mindset enabl
 
 ## Projects
 <!-- Project 1 -->
-- **[Wolf Co. Manufacturing](https://github.com/Ben-Joan/Wolf-Co-Manufacturing-Downtime)** - Quantify and Identify key causes of downtime, and recommend actions to improve production line efficiency.
+- **[Swift Logistics](https://github.com/Ben-Joan/Swift-Logistics)**
 <!-- Project 2 -->
+- **[Wolf Co. Manufacturing](https://github.com/Ben-Joan/Wolf-Co-Manufacturing-Downtime)** - Quantify and Identify key causes of downtime, and recommend actions to improve production line efficiency.
+<!-- Project 3 -->
 - **[Airline Delay Analysis](https://github.com/Ben-Joan/Airlines-Peformance-and-Delay-Analysis)** – Exploration of airline performance data to identify patterns in flight delays.
-<!-- Project 3 -->  
+<!-- Project 4 -->  
 - **[Soft Drink Market Insights](https://github.com/Ben-Joan/Soft-Drink-Market-Insight)** – Analysis of market trends and consumer preferences in the soft drink industry.
-<!-- Project 4 --> 
+<!-- Project 5 --> 
 - **[Merchandise Sales Analysis](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales)** – Evaluation of sales data to uncover insights and optimize merchandising strategies.
-<!-- Project 5 -->  
+<!-- Project 6 -->  
 - **[ATLIQ Mart Supply Chain](https://github.com/Ben-Joan/Atliq_Mart_FMCG)** – Supply chain analysis for FMCG operations to improve efficiency and inventory management.
    
 
